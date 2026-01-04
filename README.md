@@ -204,23 +204,41 @@ Loan-Default-Analysis/
 │
 
 ├── data/
+
 │   └── raw_dataset.csv
+
 │
+
 ├── notebooks/
+
 │   ├── 01_data_cleaning.ipynb
+
 │   ├── 02_eda.ipynb
+
 │   ├── 03_feature_engineering.ipynb
+
 │
+
 ├── sql/
+
 │   └── loan_default_analysis.sql
+
 │
+
 ├── powerbi/
+
 │   └── loan_default_dashboard.pbix
+
 │
+
 ├── docs/
+
 │   ├── Business_Problem_Document.pdf
+
 │   └── Project_Report.pdf
+
 │
+
 └── README.md
 
 ## 🧠 What This Project Demonstrates
