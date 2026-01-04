@@ -1,15 +1,15 @@
-#🏦 Loan Default Risk Analysis
+# 🏦 Loan Default Risk Analysis
 
 End-to-End Data Analytics Project (Python | SQL | Power BI)
 
-##📌 Project Overview
+## 📌 Project Overview
 
 Loan defaults pose significant financial risk to lending institutions.
 This project analyzes customer demographic, financial, and loan-related data to identify key drivers of loan default and provide actionable insights for credit risk management.
 
 The analysis follows a full-stack data analyst workflow, from data cleaning and feature engineering to SQL analysis and interactive Power BI dashboards.
 
-##🎯 Business Problem
+## 🎯 Business Problem
 
 Financial institutions need to:
 
@@ -25,7 +25,7 @@ Key Question:
 
 Which customer and loan characteristics are most strongly associated with loan default, and how can these insights help reduce credit risk?
 
-##🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 Python (Pandas, NumPy, Matplotlib)
 
@@ -37,7 +37,7 @@ Jupyter Notebook
 
 GitHub (Version control & documentation)
 
-##📂 Dataset Description
+## 📂 Dataset Description
 
 The dataset contains customer-level loan information, including:
 
@@ -75,7 +75,7 @@ Target Variable
 
 Default Flag (1 = Default, 0 = Non-default)
 
-##🔍 Project Workflow
+## 🔍 Project Workflow
 1️⃣ Data Cleaning & Preparation (Python)
 
 Checked data types, null values, and distributions
@@ -174,7 +174,7 @@ Employment Stability
 
 Loan Purpose
 
-##📊 Key Insights
+## 📊 Key Insights
 
 Low-income customers show significantly higher default rates
 
@@ -186,7 +186,7 @@ Unstable employment leads to higher default probability
 
 High DTI ratios indicate elevated financial stress
 
-##💡 Business Recommendations
+## 💡 Business Recommendations
 
 Strengthen credit checks for high-risk segments
 
@@ -198,7 +198,7 @@ Monitor high-DTI customers more closely
 
 Use dashboard for continuous portfolio risk monitoring
 
-##📁 Repository Structure
+## 📁 Repository Structure
 Loan-Default-Analysis/
 │
 ├── data/
@@ -221,7 +221,7 @@ Loan-Default-Analysis/
 │
 └── README.md
 
-##🧠 What This Project Demonstrates
+## 🧠 What This Project Demonstrates
 
 End-to-end analytics thinking
 
@@ -231,7 +231,7 @@ Strong SQL & Power BI skills
 
 Ability to communicate insights to stakeholders
 
-##📬 Contact
+## 📬 Contact
 
 If you’d like to discuss this project or collaborate, feel free to reach out via GitHub or LinkedIn.
 
