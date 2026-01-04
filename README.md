@@ -11,7 +11,7 @@ The analysis follows a full-stack data analyst workflow, from data cleaning and 
 
 ## 🎯 Business Problem
 
-Financial institutions need to:
+**Financial institutions need to:**
 
 Identify high-risk customer segments
 
@@ -21,7 +21,7 @@ Improve credit approval and pricing strategies
 
 Reduce non-performing assets (NPAs)
 
-Key Question:
+**Key Question:**
 
 Which customer and loan characteristics are most strongly associated with loan default, and how can these insights help reduce credit risk?
 
@@ -39,7 +39,7 @@ GitHub (Version control & documentation)
 
 ## 📂 Dataset Description
 
-The dataset contains customer-level loan information, including:
+**The dataset contains customer-level loan information, including:**
 
 Customer Attributes
 
